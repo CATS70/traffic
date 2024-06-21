@@ -1,3 +1,5 @@
+Exercice dans le cadre du MOOC Harvard - CS50 -Introduction to Artificial Intelligence with Python: Experimenter la vision par ordinateur via le ML et tenserflow.
+Les images des panneaux de signalisation utilisées sont disponible ici: https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/published-archive.html
 Hereafter the different configurations I tested:
 I started with a Basic config adapted from lecture notes :
 model = tf.keras.models.Sequential([
